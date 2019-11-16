@@ -9,6 +9,7 @@ div[class*="bloque"]{
 }
 .columna-chat, .columna-news{
   padding: 0 !important;
+  
 }
 .contenedor-write-publicacion{
   min-height: 7rem;
